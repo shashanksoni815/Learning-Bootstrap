@@ -1,0 +1,19 @@
+.border-success {
+    --bs-border-opacity: 1;
+    border-color: rgba(var(--bs-success-rgb), var(--bs-border-opacity)) !important;
+}
+
+.head {
+    text-align: center;
+    justify-content: center;
+}
+
+h6 {
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.card-body {
+    
+}
